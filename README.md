@@ -1,7 +1,9 @@
 # todolist_redux_mobx_RN
 a simple demo for redux&mobx in RN.
 The demo is built by redux in react first.
+
 (http://redux.js.org/docs/basics/ExampleTodoList.html)
+
 I rebuild it by redux or mobx for react native.
 
 ## run demo
@@ -12,7 +14,9 @@ I rebuild it by redux or mobx for react native.
 
 ## change mobx or redux 
  In the file ./index.android.js or ./index.ios.js 
- `AppRegistry.registerComponent('todolist_redux_mobx', () => AppRedux)`
+ 
+ ```AppRegistry.registerComponent('todolist_redux_mobx', () => AppRedux)```
+ 
  You can change AppRedux to AppMobx to see the demo built by Mobx.
  
  ### Pls Let Me Know If Any Question
