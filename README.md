@@ -1,6 +1,7 @@
 # todolist_redux_mobx_RN
 a simple demo for redux&mobx in RN.
-The demo is built by redux in react first.(http://redux.js.org/docs/basics/ExampleTodoList.html)
+The demo is built by redux in react first.
+(http://redux.js.org/docs/basics/ExampleTodoList.html)
 I rebuild it by redux or mobx for react native.
 
 ## run demo
