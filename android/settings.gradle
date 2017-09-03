@@ -1,0 +1,3 @@
+rootProject.name = 'todolist_redux_mobx'
+
+include ':app'
